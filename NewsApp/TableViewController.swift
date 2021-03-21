@@ -2,7 +2,7 @@
 //  TableViewController.swift
 //  NewsApp
 //
-//  Created by Dmitry Tatarintsev on 13.03.2021.+
+//  Created by Dmitry Tatarintsev on 13.03.2021.++
 //
 
 import UIKit
